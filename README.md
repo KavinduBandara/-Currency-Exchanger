@@ -1,5 +1,6 @@
-🔴 Currency Exchanger CLI
-A simple Python command-line tool that converts currencies in real-time using the Frankfurter API.
+# 🔴 Currency Exchanger CLI
+
+A simple **Python command-line tool** that converts currencies in real-time using the [Frankfurter API](https://www.frankfurter.app/).
 
 📌 Features
 Convert any base currency to a target currency
