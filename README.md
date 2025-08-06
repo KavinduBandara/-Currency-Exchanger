@@ -1,20 +1,20 @@
-🔴 Currency Exchanger CLI 🔴
+🔴 Currency Exchanger CLI
 A simple Python command-line tool that converts currencies in real-time using the Frankfurter API.
 
-✅ Features
-Convert any base currency to a target currency.
+📌 Features
+Convert any base currency to a target currency
 
-Real-time exchange rates from Frankfurter API.
+Real-time exchange rates from Frankfurter API
 
 Input validation for:
 
-Base currency
+✅ Base currency
 
-Target currency
+✅ Target currency
 
-Amount
+✅ Amount
 
-Option to repeat conversions without restarting the program.
+Option to repeat conversions without restarting the program
 
 🛠 Requirements
 Python 3.x
@@ -46,9 +46,9 @@ What's the base amount? 100
 💱 100 USD is 32,500.0 LKR
 Do you wanna try another time?(yes/no): yes
 🔮 Future Improvements
-Validate base currency from JSON (not just HTTP status).
+Validate base currency from JSON (not just HTTP status)
 
-Add multiple currency conversion in one go.
+Add multiple currency conversion in one go
 
 🙏 Credits
 This project was fully coded and structured by me, including:
